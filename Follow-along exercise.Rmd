@@ -1,0 +1,23 @@
+---
+title: "Tutorial follow-along"
+author: "Andrea Hopwood"
+date: "2025-10-16"
+output: pdf_document
+---
+```{r code chunk 1}
+a <- 1
+b <- 2
+```
+```{r code chunk 2}
+c <- 3
+d <-4
+```
+
+## Ordered list
+1. One
+2. two
+3. three
+
+## Unordered list
+- Item
+- Another item
