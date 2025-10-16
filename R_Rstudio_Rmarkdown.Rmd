@@ -36,4 +36,3 @@ Try it with this Rmarkdown document, as you will need to create pdf outputs to s
 install.packages("tinytex")
 
 tinytex::install_tinytex()
-

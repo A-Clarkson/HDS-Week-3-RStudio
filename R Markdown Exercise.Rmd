@@ -1,0 +1,37 @@
+---
+title: "R Markdown exercise"
+author: "Andrea Hopwood"
+date: "2025-10-16"
+output:
+  html_document:
+    df_print: paged
+  word_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Programme Options
+  - Health Coaching
+  - Weight Management
+  - Exercise referral
+
+```{r}
+5+5
+```
+## Process of referral
+  1. Go to the [Wellbeing Service website](https://refreshbwd.com/)
+  2. Find the referral form under the **Wellbeing Support** menu, then click the **Wellbeing Service** tile
+  3. Clieck the **Wellbeing Service Referral Form** button
+  4. Complete the referral form
+  5. One of our friendly Hub Advisers will contact you within 5 working days
+  
+```{r}
+20*5
+```
+
+
+
+
